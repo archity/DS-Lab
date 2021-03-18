@@ -14,6 +14,6 @@ Practical labs for the course "Foundations of Data Science" at MoSIG
 - [ ] Part II: PyTorch and CNN
     - [X] PyTorch Tensor Basics
     - [X] Torch Autograd
-    - [X] NN architecture for MNIST
-    - [ ] LeNet architecture for MNIST
+    - [X] LeNet architecture for MNIST
+        - TODO: Experiments
 
